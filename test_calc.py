@@ -1,4 +1,3 @@
-# test_calc.py
 import unittest
 from calc import add_numbers
 
